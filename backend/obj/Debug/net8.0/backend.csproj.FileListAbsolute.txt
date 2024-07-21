@@ -31,3 +31,4 @@
 /Users/ADMIN/Desktop/TaskMonitorPro/backend/obj/Debug/net8.0/backend.pdb
 /Users/ADMIN/Desktop/TaskMonitorPro/backend/obj/Debug/net8.0/backend.genruntimeconfig.cache
 /Users/ADMIN/Desktop/TaskMonitorPro/backend/obj/Debug/net8.0/ref/backend.dll
+/Users/ADMIN/Desktop/TaskMonitorPro/backend/obj/Debug/net8.0/backend.sourcelink.json
