@@ -81,7 +81,7 @@ __pycache__/
 
 # Ignore virtual environments, if any
 venv/
-.env/
+.env
 .venv/
 env/
 ENV/
